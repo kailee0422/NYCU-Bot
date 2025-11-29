@@ -1,0 +1,25 @@
+# NYCU AI Award Announcement Multi-Agent System
+# Dependencies
+
+# Web scraping
+aiohttp>=3.9.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Social Media APIs
+tweepy>=4.14.0
+praw>=7.7.0
+
+# LangChain and LLM
+langchain>=0.3.0
+langchain-ollama>=0.2.0
+langchain-core>=0.3.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Utilities
+pypinyin>=0.50.0
+
+# Optional translation (fallback)
+deep-translator>=1.11.0

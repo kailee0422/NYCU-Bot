@@ -1,0 +1,30 @@
+{
+  "twitter": {
+    "api_key": "",
+    "api_secret": "",
+    "access_token": "",
+    "access_token_secret": ""
+  },
+  "reddit": {
+    "client_id": "",
+    "client_secret": "",
+    "username": "",
+    "password": "",
+    "user_agent": "NYCUBot/1.0"
+  },
+  "facebook": {
+    "page_id": "",
+    "access_token": ""
+  },
+  "instagram": {
+    "access_token": "",
+    "instagram_account_id": ""
+  },
+  "linkedin": {
+    "access_token": ""
+  },
+  "ollama": {
+    "base_url": "http://localhost:11434",
+    "model": "deepseek-r1:7b"
+  }
+}
